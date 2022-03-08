@@ -1,4 +1,6 @@
-# AMLD 2022 Visual Disinformation
+# AMLD 2022 - "Visual Disinformation and the Dark Side of Internet Memes"
+
+[Workshop Link](https://appliedmldays.org/events/amld-epfl-2022/workshops/visual-disinformation-and-the-dark-side-of-internet-memes)
 
 ## Workshop Part 2
 
