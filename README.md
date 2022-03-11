@@ -68,9 +68,18 @@ Michael Graber, Professor, FHNW
 ## References & Acknowledgements
 
 Data for Part 1 are from:
-
+- [The Hateful Memes Challenge](https://ai.facebook.com/tools/hatefulmemes/)
+- [COCO Text](https://bgshih.github.io/cocotext/)
+- [MS COCO](https://cocodataset.org/)
+- [MultiOFF](https://aclanthology.org/2020.trac-1.6/)
 
 Data for Part 2 are from Twitter Transparency: [Link](https://transparency.twitter.com/en/reports/information-operations.html). Any usage is subject to Twitter's terms and conditions [Link](https://developer.twitter.com/en/developer-terms).
 
 
 Radford, Alec, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, et al. “Learning Transferable Visual Models From Natural Language Supervision.” ArXiv:2103.00020 [Cs], February 26, 2021. http://arxiv.org/abs/2103.00020.
+
+
+Kiela, Douwe, Hamed Firooz, Aravind Mohan, Vedanuj Goswami, Amanpreet Singh, Pratik Ringshia, and Davide Testuggine. “The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes.” ArXiv:2005.04790 [Cs], April 7, 2021. http://arxiv.org/abs/2005.04790.
+
+
+Suryawanshi, Shardul, Bharathi Raja Chakravarthi, Mihael Arcan, and Paul Buitelaar. “Multimodal Meme Dataset (MultiOFF) for Identifying Offensive Content in Image and Text.” In Proceedings of the Second Workshop on Trolling, Aggression and Cyberbullying, 32–41. Marseille, France: European Language Resources Association (ELRA), 2020. https://aclanthology.org/2020.trac-1.6.
