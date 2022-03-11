@@ -6,6 +6,8 @@ This repository contains code and data for the workshop "Visual Disinformation a
 
 Klick on the following link to open the notebook in Google Colab (recommended):
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/i4Ds/AMLD-2022-Visual-Disinformation/blob/main/part1.ipynb)
+
 ## Workshop Part 2
 
 Klick on the following link to open the notebook in Google Colab (recommended):
@@ -48,13 +50,15 @@ Michael Graber, Professor, FHNW
   <img src="./logos/ar.png" width="350" alt="armasuisse S+T">
 </p>
 
-[FHNW - University of Applied Sciences and Arts Northwestern Switzerland](https://www.fhnw.ch/en) - 
+[FHNW - University of Applied Sciences and Arts Northwestern Switzerland](https://www.fhnw.ch/en)
+
 <p align="left">
   <img src="./logos/fhnw.png" width="350" alt="FHNW">
 </p>
 
 
 [Cyber Defence Campus](https://www.ar.admin.ch/en/armasuisse-wissenschaft-und-technologie-w-t/cyber-defence_campus.html)
+
 <p align="left">
   <img src="./logos/cyd.png" width="350" alt="Cyber Defense Campus">
 </p>
