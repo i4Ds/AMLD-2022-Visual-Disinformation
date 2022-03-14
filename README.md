@@ -1,4 +1,10 @@
-# Applied Machine Learning Days EPFL 2022<br>_Visual Disinformation and the Dark Side of Internet Memes_
+### Applied Machine Learning Days EPFL 2022 - Workshop
+
+<p align="left">
+  <img src="./logos/logo_amld-epfl-dark.png" width="200" alt="armasuisse S+T">
+</p>
+
+# _Visual Disinformation and the Dark Side of Internet Memes_
 
 This repository contains code and data for the workshop "Visual Disinformation and the Dark Side of Internet Memes" at the Applied Machine Learning Days EPFL 2022 ([Workshop Link](https://appliedmldays.org/events/amld-epfl-2022/workshops/visual-disinformation-and-the-dark-side-of-internet-memes)).
 
