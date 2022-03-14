@@ -14,9 +14,9 @@ Click on the following badge to open the notebook in Google Colab (recommended):
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/i4Ds/AMLD-2022-Visual-Disinformation/blob/main/part2.ipynb)
 
-### Local Installation
+### Local Installation (alternatively)
 
-Clone the repository and install dependencies. Warning: In this version you will see the solutions to some exercises (cell-hiding is a Colbab feature).
+Clone the repository and install dependencies. Warning: In this version you will see the solutions to some exercises (cell-hiding is a Colab feature).
 
 1) Clone the repository. To get the data you need [Git lfs](https://git-lfs.github.com/) while cloning the repository. Alternatively, you can download the data from this [Link](https://github.com/i4Ds/AMLD-2022-Visual-Disinformation/raw/main/data/GRU_202012.tar.gz)
 
