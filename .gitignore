@@ -1,4 +1,4 @@
 /data/*
-
+archive/*
 !*.tar.gz
 !*.zip

@@ -20,7 +20,23 @@ Click on the following badge to open the notebook in Google Colab (recommended):
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/i4Ds/AMLD-2022-Visual-Disinformation/blob/main/part2.ipynb)
 
-### Local Installation (alternatively)
+## Local Installation (Optional)
+
+If you want to run the code locally, follow the instructions below to setup your environment.
+### Workshop Part 1
+
+Clone the repository and install dependencies.
+
+1) Clone the repository or download the notebook
+2) Install dependencies
+  
+```
+pip install -r requirements_part1.txt
+```
+
+3) set global variable `DATA_ROOT_PATH` to any directory (via notebook)
+
+### Workshop Part 2
 
 Clone the repository and install dependencies. Warning: In this version you will see the solutions to some exercises (cell-hiding is a Colab feature).
 
